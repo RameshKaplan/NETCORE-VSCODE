@@ -1,0 +1,7 @@
+/Users/ramesh/Documents/git_personal/NETCORE-VSCODE/publish/NETCORE-VSCODE
+/Users/ramesh/Documents/git_personal/NETCORE-VSCODE/publish/appsettings.Development.json
+/Users/ramesh/Documents/git_personal/NETCORE-VSCODE/publish/appsettings.json
+/Users/ramesh/Documents/git_personal/NETCORE-VSCODE/publish/NETCORE-VSCODE.dll
+/Users/ramesh/Documents/git_personal/NETCORE-VSCODE/publish/NETCORE-VSCODE.deps.json
+/Users/ramesh/Documents/git_personal/NETCORE-VSCODE/publish/NETCORE-VSCODE.runtimeconfig.json
+/Users/ramesh/Documents/git_personal/NETCORE-VSCODE/publish/NETCORE-VSCODE.pdb
